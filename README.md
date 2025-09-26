@@ -22,10 +22,31 @@ $ sudo make install
 
 <img width="1000" height="877" alt="yosys_installing" src="https://github.com/user-attachments/assets/9a711c2b-5378-4a49-bd30-a6844137e7ac" />
 
+---
+## Iverilog
+```bask
+$ sudo apt-get install iverilog
+```
+<img width="1036" height="366" alt="iverilog_installing" src="https://github.com/user-attachments/assets/4f31dffd-7e08-47ae-b5e1-ee6abdbb88cf" />
 
+----
+
+## GTKWAVE
+
+```bash
+$ sudo apt update
+$ sudo apt install gtkwave
+```
+
+<img width="1116" height="772" alt="gtkwave_installing" src="https://github.com/user-attachments/assets/75d2d10a-10e9-4e77-a717-e2bd2a6d2947" />
+
+---
 </details>
 
 <details>
 <summary> Day 1 - Introduction to Verilog RTL Design and Synthesis
 </summary>
  
+ # Day 1 - Introduction to Verilog RTL Design and Synthesis
+
+ ## Introdution to Open-Source tools Simulator Iverilog
