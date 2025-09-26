@@ -1,7 +1,10 @@
 # VLSI_PD_PROJECT
-## Day 0 - Tools Installation 
-### Day 0 - Tools Installation
-#### yosys
+<details>
+<summary> Day 0 - Tools Installation 
+</summary>
+
+# Day 0 - Tools Installation
+## yosys
 ```bash
 $sudo apt-get update
 $ git clone https://github.com/YosysHQ/yosys.git
@@ -16,4 +19,11 @@ $ git Submodule Update --Init(Yosys source code expects a git submodule called a
 $ make
 $ sudo make install
 ```
-## Day 1 - Introduction to Verilog RTL Design and Synthesis
+![yosys_install](/home/partha/Pictures/Screenshots/yosys_installing.png)
+
+</details>
+
+<details>
+<summary> Day 1 - Introduction to Verilog RTL Design and Synthesis
+</summary>
+ 
