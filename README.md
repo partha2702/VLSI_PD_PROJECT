@@ -19,7 +19,9 @@ $ git Submodule Update --Init(Yosys source code expects a git submodule called a
 $ make
 $ sudo make install
 ```
-![yosys_install](/home/partha/Pictures/Screenshots/yosys_installing.png)
+
+<img width="1000" height="877" alt="yosys_installing" src="https://github.com/user-attachments/assets/9a711c2b-5378-4a49-bd30-a6844137e7ac" />
+
 
 </details>
 
