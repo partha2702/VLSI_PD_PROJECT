@@ -50,3 +50,43 @@ $ sudo apt install gtkwave
  # Day 1 - Introduction to Verilog RTL Design and Synthesis
 
  ## Introdution to Open-Source tools Simulator Iverilog
+
+---
+</details>
+
+<details>
+<summary> Day 2 - Timing libs, Hierarchical vs Flat Synthesis and Efficient Flop Coding Styles 
+</summary>
+ 
+# Timing libs, Hierarchical vs Flat Synthesis and Efficient Flop Coding Styles 
+
+---
+
+</details>
+
+<details>
+<summary> Day 3 - Combinational and Sequential Optimizations
+</summary>
+ 
+# Combinational and Sequential Optimizations
+
+---
+</details>
+
+<details>
+<summary> Day 4 - GLS, Blocking vs Non-blocking and Synthesis-Simulation Mismatch
+</summary>
+ 
+# GLS, Blocking vs Non-blocking Statement and Synthesis-Simulation Mismatch
+
+----
+</details>
+
+<details>
+<summary> Day 5 -Introduction to DFT
+</summary>
+ 
+# Introduction to DFT
+ 
+ ----
+</details>
